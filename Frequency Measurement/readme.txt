@@ -1,0 +1,1 @@
+>>  Tranmit 1 to receive the frequency value
