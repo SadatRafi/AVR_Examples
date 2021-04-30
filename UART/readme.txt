@@ -3,3 +3,5 @@
 
 >> Simulation is made on Proteus 8.6
 >> Code is witten on Microchip Studio
+
+>> UART_TX.h   - Use this header for trasmission without interrupt
